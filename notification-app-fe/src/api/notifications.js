@@ -1,4 +1,4 @@
-import logger from "../../logging-middleware/logger";
+import logger from "../../../logging-middleware/logger";
 
 const API_URL =
   "http://4.224.186.213/evaluation-service/notifications";
